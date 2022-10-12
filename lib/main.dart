@@ -55,6 +55,8 @@ class MyHomePageState extends State<MyHomePage> {
 
   late Future<NewsModel> futureNews;
 
+  //Checking if this updates
+
   @override
   void initState() {
     super.initState();
